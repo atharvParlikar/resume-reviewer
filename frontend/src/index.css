@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    font-size: 2em !important;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.5em !important;
+}
+
+h3 {
+    font-size: 1.5em !important;
+}
+
+
+h4 {
+    font-size: 1.5em !important;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ol, ul {
+    list-style: lower-alpha !important;
+    list-style-position: inside !important;
+    margin-bottom: 15px;
+}
